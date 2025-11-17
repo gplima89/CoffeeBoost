@@ -10,7 +10,6 @@
 [![Powered by AI](https://img.shields.io/badge/Powered%20by-Claude%20AI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Styled%20with-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-[Live Demo](#) • [Report Bug](#) • [Request Feature](#)
 
 </div>
 
