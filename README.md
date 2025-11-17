@@ -216,9 +216,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/gplima89/alberta-caffeine-optimizer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/gplima89/alberta-caffeine-optimizer?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/gplima89/alberta-caffeine-optimizer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/gplima89/CoffeeBoost?style=social)
+![GitHub forks](https://img.shields.io/github/forks/gplima89/CoffeeBoost?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/gplima89/CoffeeBoost?style=social)
 
 </div>
 
