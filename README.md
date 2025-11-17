@@ -209,6 +209,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📊 Project Stats
 
+<img width="925" height="766" alt="image" src="https://github.com/user-attachments/assets/831d5a25-1137-465a-8bce-20fe5548756d" />
+
+<img width="926" height="698" alt="image" src="https://github.com/user-attachments/assets/7b39d88a-94f6-4253-95f4-d62451b98485" />
+
+
 <div align="center">
 
 ![GitHub stars](https://img.shields.io/github/stars/gplima89/alberta-caffeine-optimizer?style=social)
