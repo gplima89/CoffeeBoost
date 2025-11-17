@@ -192,9 +192,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Your Name**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-- Email: your.email@example.com
+- GitHub: [@gplima89](https://github.com/gplima89)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/guillima)
 
 ---
 
